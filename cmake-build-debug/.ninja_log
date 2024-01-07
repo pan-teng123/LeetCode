@@ -1,7 +1,7 @@
 # ninja log v5
 4	792	7258004981286574	CMakeFiles/Leetcode.dir/main.cpp.obj	9dd1d93400e5c5f5
 660	1141	7258006174924373	Leetcode.exe	363064ae59a62357
-6	488	7260545762993790	build.ninja	fcb5982297d75c67
+6	488	7262459533980370	build.ninja	fcb5982297d75c67
 15	238	7255367444302111	CMakeFiles/Leetcode.dir/Array/leetcode704.cpp.obj	92644b428342912c
 2	196	7257196053747729	CMakeFiles/Leetcode.dir/Array/leetcode209.cpp.obj	ce45407366a5c87f
 4	658	7258006170041891	CMakeFiles/Leetcode.dir/Array/leetcode1.cpp.obj	8b1b96dcde1fab0b
