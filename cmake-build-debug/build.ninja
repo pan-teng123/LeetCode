@@ -55,11 +55,11 @@ build CMakeFiles/Leetcode.dir/main.cpp.obj: CXX_COMPILER__Leetcode_Debug D$:/wor
   OBJECT_DIR = CMakeFiles\Leetcode.dir
   OBJECT_FILE_DIR = CMakeFiles\Leetcode.dir
 
-build CMakeFiles/Leetcode.dir/Array/leetcode1.cpp.obj: CXX_COMPILER__Leetcode_Debug D$:/workspace/Leetcode/Array/leetcode1.cpp || cmake_object_order_depends_target_Leetcode
-  DEP_FILE = CMakeFiles\Leetcode.dir\Array\leetcode1.cpp.obj.d
+build CMakeFiles/Leetcode.dir/backtracking/leetcode78.cpp.obj: CXX_COMPILER__Leetcode_Debug D$:/workspace/Leetcode/backtracking/leetcode78.cpp || cmake_object_order_depends_target_Leetcode
+  DEP_FILE = CMakeFiles\Leetcode.dir\backtracking\leetcode78.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Leetcode.dir
-  OBJECT_FILE_DIR = CMakeFiles\Leetcode.dir\Array
+  OBJECT_FILE_DIR = CMakeFiles\Leetcode.dir\backtracking
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/Leetcode.dir/Array/leetcode1.cpp.obj: CXX_COMPILER__Leetcode_De
 #############################################
 # Link the executable Leetcode.exe
 
-build Leetcode.exe: CXX_EXECUTABLE_LINKER__Leetcode_Debug CMakeFiles/Leetcode.dir/main.cpp.obj CMakeFiles/Leetcode.dir/Array/leetcode1.cpp.obj
+build Leetcode.exe: CXX_EXECUTABLE_LINKER__Leetcode_Debug CMakeFiles/Leetcode.dir/main.cpp.obj CMakeFiles/Leetcode.dir/backtracking/leetcode78.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Leetcode.dir
